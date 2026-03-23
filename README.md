@@ -34,17 +34,8 @@ A technical VR showcase built from scratch in Unity, demonstrating physics-drive
      2. VIDEO_URL  → your YouTube video link
         (e.g. https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
      ============================================================ -->
-[![Watch the demo](https://img.youtube.com/vi/gTZA1NBkTvE/maxresdefault.jpg)](https://youtu.be/gTZA1NBkTvE)
+[![Watch the demo](https://img.youtube.com/vi/gTZAlNBkTv0/maxresdefault.jpg)](https://youtu.be/gTZAlNBkTv0)
 
----
-
-## Screenshots
-
-<!-- Replace the src paths with your actual screenshot URLs or local paths -->
-| | | |
-|:---:|:---:|:---:|
-| ![Socket Puzzle](ADD_SCREENSHOT_1) | ![Lever System](ADD_SCREENSHOT_2) | ![Physical Buttons](ADD_SCREENSHOT_3) |
-| Color Socket Puzzle | Physics Lever | Physical Buttons |
 
 ---
 
