@@ -34,7 +34,7 @@ A technical VR showcase built from scratch in Unity, demonstrating physics-drive
      2. VIDEO_URL  → your YouTube video link
         (e.g. https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
      ============================================================ -->
-[![Watch the demo](IMAGE_URL)](VIDEO_URL)
+[![Watch the demo](https://img.youtube.com/vi/gTZA1NBkTvE/maxresdefault.jpg)](https://youtu.be/gTZA1NBkTvE)
 
 ---
 
